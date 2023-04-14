@@ -13,7 +13,7 @@ If you know NodeJS, you only need to require the `BruteForce.js` file.
 
 If not:
 1. You need to have NodeJS installed
-2. Save both `BruteForcer.js` and `example.js` files in the same folder
+2. Save both `BruteForce.js` and `example.js` files in the same folder
 3. Open `example.js` with any editor, like Notepad
 4. Edit Usernames/Passwords by adding any combinations you think might also be possible (*keeping the quotes and style like examples, of course*).
 5. Edit the IP of the printer to whatever your printer's IP is
