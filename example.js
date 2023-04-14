@@ -1,7 +1,7 @@
 /* 
 Example how to use the brute-forcer
 */
-const BruteForcer = require("./BruteForcer.js");
+const BruteForcer = require("./BruteForce.js");
 
 // Async IIFE to allow for 'await'
 (async () => {
