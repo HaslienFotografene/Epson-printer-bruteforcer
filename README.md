@@ -1,4 +1,4 @@
-# Epson-printer-bruteforcer
+# Epson Printer Login Brute Forcer
 ### A very hacky script for brute-forcing Epson printer's  Admin Panel username/password.
 
 I forgot our Username and Password for our Epson SC-P9500 printer.
